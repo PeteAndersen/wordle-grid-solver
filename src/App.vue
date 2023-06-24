@@ -28,7 +28,6 @@ onUnmounted(() => {
     <h1>Grid solver</h1>
   </header>
   <main>
-    <div>{{ wordGrid }}</div>
     <Board></Board>
   </main>
 </template>
